@@ -1,0 +1,111 @@
+[33mcommit b592240a8cbdda9ff16abbffcbc472ef9521e2f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 92e46e5 9e4da90
+Author: ChongLynk0611 <64692555+ChongLynk0611@users.noreply.github.com>
+Date:   Wed May 6 20:55:31 2020 +0700
+
+    Merge pull request #5 from ChongLynk0611/mouse-run
+    
+    add method run for mouse
+
+[33mcommit 9e4da908c3158c866efad373bf751d50c4b7111e[m[33m ([m[1;31morigin/mouse-run[m[33m)[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 09:49:38 2020 -0400
+
+    add method run for mouse
+
+[33mcommit 92e46e5b8b19c452c1e4d005b93c41bea793263e[m
+Merge: 9edd035 ccf2156
+Author: ChongLynk0611 <64692555+ChongLynk0611@users.noreply.github.com>
+Date:   Wed May 6 20:50:58 2020 +0700
+
+    Merge pull request #4 from ChongLynk0611/mouse-jump
+    
+    add jump method for mouse
+
+[33mcommit ccf2156386964171767627f204ea52d003ab84df[m[33m ([m[1;31morigin/mouse-jump[m[33m)[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 09:46:00 2020 -0400
+
+    add jump method for mouse
+
+[33mcommit 9edd0352ec7716d6bf0c09cd395b7a0c0b901b36[m
+Merge: 8c6a66e 2b4fded
+Author: ChongLynk0611 <64692555+ChongLynk0611@users.noreply.github.com>
+Date:   Wed May 6 20:42:59 2020 +0700
+
+    Merge pull request #3 from ChongLynk0611/mouse-run
+    
+    add module mouse
+
+[33mcommit 2b4fdedc8bc734a24439a145751ca0e78f1e2cc0[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 09:38:38 2020 -0400
+
+    add module mouse
+
+[33mcommit 8c6a66eb1151386475d5b8dcc3fb230205a7a478[m
+Merge: 1918fd1 c61bcf1
+Author: ChongLynk0611 <64692555+ChongLynk0611@users.noreply.github.com>
+Date:   Wed May 6 16:25:49 2020 +0700
+
+    Merge pull request #2 from ChongLynk0611/dog_eat
+    
+    add eat method for dog
+
+[33mcommit c61bcf1d20215259912607d95b68c3518c3f356d[m
+Merge: 96c5a9f 999d9f6
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 05:24:26 2020 -0400
+
+    add method eat and jump for dog
+
+[33mcommit 96c5a9f51fd5c82b50e4ab432d2f5a3aff7f1392[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 05:05:24 2020 -0400
+
+    fix conflic
+
+[33mcommit 3450a56d765114913426bb5885d39b2603cfd935[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 04:54:46 2020 -0400
+
+    add eat method for dog
+
+[33mcommit 1918fd17ca472dd334e5adfa0c4b49bb826e3350[m
+Merge: 4dfb5cd 63c5552
+Author: ChongLynk0611 <64692555+ChongLynk0611@users.noreply.github.com>
+Date:   Wed May 6 16:00:46 2020 +0700
+
+    Merge pull request #1 from ChongLynk0611/dog_jump
+    
+    add jump method for dog
+
+[33mcommit 63c55522d38a1f6212d4a30072d0eda57a403735[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 04:58:16 2020 -0400
+
+    add jump method for dog
+
+[33mcommit 999d9f675a0d968a1b567a8c62c6cd4400e7170f[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 04:54:46 2020 -0400
+
+    add eat method for dog
+
+[33mcommit 4dfb5cdf433cca7d4b3773c0733232a6b14d2f9e[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 04:48:52 2020 -0400
+
+    create file dog
+
+[33mcommit 6b5072f24c1cc8180d9abb180f48b1cc2f2f89a1[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 04:41:41 2020 -0400
+
+    add eat method
+
+[33mcommit 9e940dcc900c9b02fc1b1c808dd3ef257c614610[m
+Author: ChongLynk <tronglinhmta0611@gmail.com>
+Date:   Wed May 6 04:07:14 2020 -0400
+
+    add demo
